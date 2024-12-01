@@ -1,0 +1,35 @@
+body {
+    max-width: 650px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.navbar {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    text-transform: uppercase;
+}
+
+.navbar .item {
+    color: #000;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+.navbar .item:hover {
+    text-decoration: underline;
+}
+
+.navbar .item-active {
+    color: #000;
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+.navbar .item .separator {
+    color: #000;
+    font-size: 1.5em;
+}
