@@ -2,6 +2,12 @@ body {
     max-width: 650px;
     margin: auto;
     margin-top: 30px;
+}   
+
+.centerDamnit {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .navbar {
@@ -14,8 +20,8 @@ body {
 }
 
 .navbar .item {
-    color: #000;
-    font-size: 1.5em;
+    color: #fff;
+    font-size: 1.5em;   
     text-decoration: none;
 }
 
@@ -24,12 +30,12 @@ body {
 }
 
 .navbar .item-active {
-    color: #000;
+    color: #fff;
     font-size: 1.5em;
     font-weight: bolder;
 }
 
 .navbar .item .separator {
-    color: #000;
+    color: #fff;
     font-size: 1.5em;
 }
