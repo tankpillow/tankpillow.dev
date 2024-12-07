@@ -103,7 +103,7 @@
         var profilePicture = document.querySelector('.centerDamnit');
         var flashbang = document.querySelector('#flashbang');
         var white = document.querySelector('#white');
-
+        const sound = new Audio('sfx/think_fast.mp3');
         // Initial setup for elements
         flashbang.style.opacity = '0';
         white.style.opacity = '0';
@@ -111,11 +111,13 @@
         white.style.display = 'none';
             
         profilePicture.addEventListener('click', function () {
+            // Play sound
+            sound.play();
             // Show flashbang and animate opacity
             flashbang.style.display = 'block';
             setTimeout(function () {
                 flashbang.style.opacity = '1';
-            }, 500);
+            }, 200);
 
             setTimeout(function () {
                 flashbang.style.display = 'none';
@@ -131,7 +133,7 @@
                         white.style.display = 'none';
                     }, 5000);
                 }, 3000);
-            }, 2000);
+            }, 1250);
         });
     </script>
 
