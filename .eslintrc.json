@@ -2,6 +2,7 @@
   "extends": "next",
   "rules": {
     "react/no-unescaped-entities": "off",
+    "react/jsx-no-comment-text-node": "off",
     "@next/next/no-page-custom-font": "off"
   }
 }
