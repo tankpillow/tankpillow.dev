@@ -7,7 +7,7 @@ export default function LangaguesUnderTheHoodPage()
             <p>Read Time: 5 minutes</p>
             <h2>// Introduction</h2>
             <p>
-                If you are a programmer, then you know what a programming language is. But did you know that there are three different 
+                If you are a programmer, then you know what a programming language is. But did you know that there are two different 
                 types of programming languages, and each type of language has its pros and cons? In this article, we will begin to 
                 demystify how programming languages are created and how they work behind the scenes.
             </p>
