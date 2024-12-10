@@ -23,8 +23,7 @@ export default function LangaguesUnderTheHoodPage()
             </p>
             <p>
                 Apart from the two categories, there are also two types of languages: compiled and interpreted. To explain each of these, I will use a 
-                translator as an example. A person is getting ready to give a speech. However, he discovers that their audience only understands English 
-                and Italian. Knowing this, he hires a translator. So, he provides the translator with his pre-written speech, and the translator translates 
+                translator as an example. A person is getting ready to give a speech. However, he discovers that their audience only understands Italian. Knowing this, he hires a translator. So, he provides the translator with his pre-written speech, and the translator translates 
                 the speech into Italian and performs it in front of the audience. This would be an example of a compiled programming language. Before the code 
                 is executed, it is translated into a language the computer can understand. Therefore, compiled languages will perform faster than their counterparts.
                 C, C++, Go, and Rust are examples of compiled languages.
