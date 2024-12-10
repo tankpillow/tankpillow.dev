@@ -9,7 +9,7 @@ export default function HomePage() {
                 I'm a 22 year old white dude who enjoys traveling while making video games.
             </p>
             <br/>
-
+            
             <h1>/* Projects */</h1>
             <Link target="_blank" href="https://store.steampowered.com/app/2124110/Vortix/"><h2>Vortix</h2></Link>
             <ul>
