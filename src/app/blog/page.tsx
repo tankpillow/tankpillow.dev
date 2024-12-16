@@ -12,6 +12,9 @@ export default function BlogPage()
                 <li>
                     <Link href="/blog/languages-under-the-hood">Languages Under The Hood</Link>
                 </li>
+                <li>
+                    <Link href="/blog/creating-voxel-engine">Creating a Voxel Engine</Link>
+                </li>
             </ol>
         </main>
     );
