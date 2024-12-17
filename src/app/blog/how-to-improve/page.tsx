@@ -28,7 +28,7 @@ export default function HowToImprovePage()
             </p>
             <h2>// Building Projects</h2>
             <p>
-                In my personal opinion, the best way to improve at coding is to build projects. These projects
+                In my opinion, the best way to improve at coding is to build projects. These projects
                 can be anything from a simple to-do list to a full-fledged game engine. The key is to build something
                 that challenges you. 
             </p>
@@ -39,15 +39,15 @@ export default function HowToImprovePage()
             </p>
             <strong>Project Examples:</strong>
             <ul>
-                <li>Build a simple to-do list app</li>
-                <li>Create a basic calculator</li>
+                <li>Build a simple to-do list app.</li>
+                <li>Create a basic calculator.</li>
                 <li>Develop a small game.</li>
             </ul>
             <strong>Other Examples:</strong>
             <ul>
-                <li>Contributing to open source</li>
-                <li>Building a personal website</li>
-                <li>Working with a team</li>
+                <li>Contribute to open source.</li>
+                <li>Build a personal website.</li>
+                <li>Work with a team.</li>
             </ul>
             <strong>Skill Level Examples:</strong>
             <ul>
@@ -58,7 +58,7 @@ export default function HowToImprovePage()
             <h2>// Reading Code</h2>
             <p>
                 Understanding how other developers write code is a great way to improve your own coding skills. 
-                You can do this by exploring open source projects on GitHub or by reading articles and tutorials. 
+                You can do this by exploring open source projects on <Link target="_blank" href="https://github.com">GitHub</Link> or by reading articles and tutorials. 
                 Try pairing up with a more experienced developer and ask them to review your code. This will help
                 you learn new techniques and best practices.
             </p>
@@ -84,8 +84,8 @@ export default function HowToImprovePage()
                 You can do this by learning a new programming language, framework, or library. 
                 You could also dive into the realm of Docker, Git, CI/CD pipelines and more. 
                 Try to build a project using the new technology to solidify your understanding. 
-                Building existing technology from the ground up is a great way to learn how things 
-                work. <Link href={"https://build-your-own-x.vercel.app/"}>Build your own X</Link> is 
+                Building existing technologies from the ground up is a great way to learn how things 
+                work. <Link target="_blank" href={"https://build-your-own-x.vercel.app/"}>Build your own X</Link> is 
                 a great resource for this.
             </p>
             <h2>// Practice Debugging</h2>
