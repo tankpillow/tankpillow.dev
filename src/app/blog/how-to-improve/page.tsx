@@ -20,8 +20,8 @@ export default function HowToImprovePage()
                 One of the most important skills for a developer is problem solving. Being able to break down a problem
                 into smaller, more manageable pieces is essential for writing good code. One way to improve your problem
                 solving skills is to practice solving coding challenges. Websites like <Link target="_blank" href={"https://leetcode.com/"}>LeetCode</Link>, <Link target="_blank" href="https://www.codewars.com/">CodeWars</Link>, and <Link target="_blank" href="https://www.hackerrank.com/">HackerRank</Link> offer 
-                a wide variety of coding challenges to help you improve your problem solving skills. Improving your 
-                <strong>algorithmic thinking</strong> is a great way to improve your coding skills. What is algorithmic thinking?
+                a wide variety of coding challenges to help you improve your problem solving skills. Improving 
+                your <strong>algorithmic thinking</strong> is a great way to improve your coding skills. What is algorithmic thinking?
                 It is the ability to solve problems by breaking them down into smaller, more manageable pieces. <br/>
                 <br/>
                 <strong>Challenge:</strong> Try to develop a system to organize a library's inventory.
