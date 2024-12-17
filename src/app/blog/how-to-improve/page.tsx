@@ -66,7 +66,11 @@ export default function HowToImprovePage()
             <ul>
                 <li>
                     <Link target="_blank" href="https://github.com/id-Software/Quake">Quake</Link>
+                </li>
+                <li>
                     <Link target="_black" href="https://www.raylib.com/">RayLib</Link>
+                </li>
+                <li>
                     <Link target="_blank" href="https://www.djangoproject.com/">Django</Link>
                 </li>
                 <li>More to come!</li>
