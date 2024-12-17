@@ -13,6 +13,9 @@ export default function BlogPage()
                     <Link href="/blog/languages-under-the-hood">Languages Under The Hood</Link>
                 </li>
                 <li>
+                    <Link href="/blog/how-to-improve">How to Improve At Coding</Link>
+                </li>
+                <li>
                     <Link href="/blog/creating-voxel-engine">Creating a Voxel Engine</Link>
                 </li>
             </ol>
