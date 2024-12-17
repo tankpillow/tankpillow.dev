@@ -108,7 +108,7 @@ export default function HowToImprovePage()
             <p>
                 Soft skills are just as important as technical skills. Soft skills are the skills that help you work 
                 well with others and communicate effectively. Some important soft skills for developers include 
-                teamwork, communication, problem solving, and time management.
+                teamwork, communication, problem solving, organization, and time management.
             </p>
             <p>
                 One way to improve your soft skills is to work on projects with other developers. This will help you 
