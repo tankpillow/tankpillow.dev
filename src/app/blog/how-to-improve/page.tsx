@@ -113,7 +113,7 @@ export default function HowToImprovePage()
             <p>
                 One way to improve your soft skills is to work on projects with other developers. This will help you 
                 learn how to collaborate effectively and communicate with others. This will allow you to practice patience and
-                open-mindedness You can also take online courses or workshops to improve your soft skills.
+                open-mindedness. You can also take online courses or workshops to improve your soft skills.
             </p>
             <h2>// Document Your Work</h2>
             <p>
