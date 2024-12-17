@@ -90,7 +90,7 @@ export default function HowToImprovePage()
                 crucial for writing good code. One way to improve your debugging skills is to practice debugging
                 on a regular basis. Try to find and fix bugs in your code, or ask a friend to help you debug their code.
             </p>
-            <h2>// Staying Consistant and Avoid Burnout</h2>
+            <h2>// Staying Consistent and Avoid Burnout</h2>
             <p>
                 Improving at coding takes time and effort. It is important to stay consistent and avoid burnout. 
                 Set aside time each day to work on coding projects or practice coding challenges. Take breaks when 
