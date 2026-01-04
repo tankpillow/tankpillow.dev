@@ -1,9 +1,13 @@
 import Image from "next/image";
+import ParticlesBackground from "@/components/ParticlesBackground";
 
 export default function HomePage() 
 {
     return (
-        <main className="min-h-screen flex items-center justify-center p-8">
+        <main className="min-h-screen flex items-center justify-center p-8 relative">
+            { /* Background */ }
+            <ParticlesBackground />
+
             <div className="max-w-2xl w-full text-center">
                 {/* Profile Section */}
                 <div className="mb-8">
@@ -36,7 +40,7 @@ export default function HomePage()
                         href="https://github.com/tankpillow" 
                         target="_blank" 
                         rel="noopener noreferrer"
-                        className="px-6 py-3 bg-gray-800 hover:bg-gray-900 dark:bg-gray-700 dark:hover:bg-gray-600 text-white rounded-lg transition-colors font-medium"
+                        className="px-6 py-3 bg-zinc-800 hover:bg-zinc-900 dark:bg-zinc-700 dark:hover:bg-zinc-600 text-white rounded-lg transition-colors font-medium"
                     >
                         GitHub
                     </a>
@@ -44,10 +48,19 @@ export default function HomePage()
                         href="https://ko-fi.com/tankpillow" 
                         target="_blank" 
                         rel="noopener noreferrer"
-                        className="px-6 py-3 bg-gray-800 hover:bg-gray-900 dark:bg-gray-700 dark:hover:bg-gray-600 text-white rounded-lg transition-colors font-medium"
+                        className="px-6 py-3 bg-pink-800 hover:bg-pink-900 dark:bg-pink-700 dark:hover:bg-pink-600 text-white rounded-lg transition-colors font-medium"
                     >
                         Ko-Fi
                     </a>
+                    <a 
+                        href="https://modrinth.com/user/tankpillow" 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                        className="px-6 py-3 bg-green-800 hover:bg-green-900 dark:bg-green-700 dark:hover:bg-green-600 text-white rounded-lg transition-colors font-medium"
+                    >
+                        Modrinth
+                    </a>
+
                 </div>
 
                 {/* Footer */}
