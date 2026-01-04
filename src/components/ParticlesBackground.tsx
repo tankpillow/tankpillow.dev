@@ -47,7 +47,7 @@ export default function ParticlesBackground() {
                         },
                         resize: {
                             enable: true,
-                        } as any,
+                        },
                     },
                     modes: {
                         push: {
@@ -85,7 +85,7 @@ export default function ParticlesBackground() {
                             enable: true,
                             width: 1920,
                             height: 1080,
-                        } as any,
+                        },
                         value: 80,
                     },
                     opacity: {
