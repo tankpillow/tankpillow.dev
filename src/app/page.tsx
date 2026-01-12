@@ -37,6 +37,15 @@ export default function HomePage()
                         YouTube
                     </a>
                     <a 
+                        href="https://discord.gg/ppQkQnWdMp" 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                        className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors font-medium"
+                    >
+                        Discord 
+                    </a>
+
+                    <a 
                         href="https://github.com/tankpillow" 
                         target="_blank" 
                         rel="noopener noreferrer"
