@@ -44,15 +44,6 @@ export default function HomePage()
                     >
                         Discord 
                     </a>
-
-                    <a 
-                        href="https://github.com/tankpillow" 
-                        target="_blank" 
-                        rel="noopener noreferrer"
-                        className="px-6 py-3 bg-zinc-800 hover:bg-zinc-900 dark:bg-zinc-700 dark:hover:bg-zinc-600 text-white rounded-lg transition-colors font-medium"
-                    >
-                        GitHub
-                    </a>
                     <a 
                         href="https://ko-fi.com/tankpillow" 
                         target="_blank" 
