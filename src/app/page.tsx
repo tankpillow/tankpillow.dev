@@ -1,5 +1,5 @@
-import Image from "next/image";
 import ParticlesBackground from "@/components/ParticlesBackground";
+import ProfilePicture from "@/components/ProfilePicture";
 
 export default function HomePage() 
 {
@@ -11,15 +11,7 @@ export default function HomePage()
             <div className="max-w-2xl w-full text-center">
                 {/* Profile Section */}
                 <div className="mb-8">
-                    <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden">
-                        <Image
-                            src="/tankpillow.jpg" 
-                            alt="tankpillow" 
-                            width={32}
-                            height={32}
-                            className="w-full h-full object-cover"
-                        />
-                    </div>
+                    <ProfilePicture />
                     <h1 className="text-5xl font-bold mb-4">tankpillow</h1>
                     <p className="text-xl text-gray-600 dark:text-gray-400 max-w-lg mx-auto">
                         Creating content and sharing my journey on YouTube
