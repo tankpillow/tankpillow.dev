@@ -40,7 +40,7 @@ export default function ProfilePicture() {
                 className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden block cursor-pointer"
             >
                 <Image
-                    src="/tankpillow.jpg"
+                    src="/tankpillow.png"
                     alt="tankpillow"
                     width={128}
                     height={128}
