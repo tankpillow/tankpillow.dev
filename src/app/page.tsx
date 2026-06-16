@@ -8,7 +8,7 @@ export default function HomePage()
             { /* Background */ }
             <ParticlesBackground />
 
-            <div className="max-w-2xl w-full text-center">
+            <div className="max-w-2xl w-full text-center gap-3">
                 {/* Profile Section */}
                 <div className="mb-8">
                     <ProfilePicture />
@@ -44,6 +44,8 @@ export default function HomePage()
                     >
                         Ko-Fi
                     </a>
+                </div>
+                <div className="flex flex-wrap justify-center gap-4 mb-8">
                     <a 
                         href="https://modrinth.com/user/tankpillow" 
                         target="_blank" 
@@ -52,7 +54,14 @@ export default function HomePage()
                     >
                         Modrinth
                     </a>
-
+                    <a 
+                        href="https://github.com/tankpillow" 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                        className="px-6 py-3 bg-gray-900 hover:bg-gray-900 dark:bg-gray-700 dark:hover:bg-gray-600 text-white rounded-lg transition-colors font-medium"
+                    >
+                        GitHub
+                    </a>
                 </div>
 
                 {/* Footer */}
