@@ -8,7 +8,7 @@ export default function HomePage()
             { /* Background */ }
             <ParticlesBackground />
 
-            <div className="max-w-2xl w-full text-center gap-3">
+            <div className="max-w-2xl w-full text-center">
                 {/* Profile Section */}
                 <div className="mb-8">
                     <ProfilePicture />
