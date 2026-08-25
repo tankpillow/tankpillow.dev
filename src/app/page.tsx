@@ -1,6 +1,8 @@
 import ParticlesBackground from "@/components/ParticlesBackground";
 import ProfilePicture from "@/components/ProfilePicture";
 
+
+
 export default function HomePage() 
 {
     return (
@@ -45,25 +47,6 @@ export default function HomePage()
                         Ko-Fi
                     </a>
                 </div>
-                <div className="flex flex-wrap justify-center gap-4 mb-8">
-                    <a 
-                        href="https://modrinth.com/user/tankpillow" 
-                        target="_blank" 
-                        rel="noopener noreferrer"
-                        className="px-6 py-3 bg-green-800 hover:bg-green-900 dark:bg-green-700 dark:hover:bg-green-600 text-white rounded-lg transition-colors font-medium"
-                    >
-                        Modrinth
-                    </a>
-                    <a 
-                        href="https://github.com/tankpillow" 
-                        target="_blank" 
-                        rel="noopener noreferrer"
-                        className="px-6 py-3 bg-gray-900 hover:bg-gray-900 dark:bg-gray-700 dark:hover:bg-gray-600 text-white rounded-lg transition-colors font-medium"
-                    >
-                        GitHub
-                    </a>
-                </div>
-
                 {/* Footer */}
                 <footer className="text-sm text-gray-500 dark:text-gray-600 mt-16">
                     © {new Date().getFullYear()} tankpillow
