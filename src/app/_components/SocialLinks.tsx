@@ -46,6 +46,7 @@ export default function SocialLinks()
         <div className="flex flex-wrap justify-center gap-4 mb-8">
             {socials.map((social) => (
                 <a
+                    key={social.text}
                     href={social.href}
                     target="_blank"
                     rel="noopener noreferrer"
