@@ -26,5 +26,10 @@
     "eslint-config-next": "15.3.2",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "allowScripts": {
+    "@tailwindcss/oxide@4.1.7": true,
+    "@tsparticles/engine@3.9.1": true,
+    "unrs-resolver@1.7.2": true
   }
 }
